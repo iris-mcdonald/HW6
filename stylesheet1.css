@@ -1,0 +1,73 @@
+﻿body {
+    background-color: azure;
+}
+h4 {
+    color: midnightblue;
+}
+.mybanner {
+    background-color: cornflowerblue;
+    height: 200px;
+    border-bottom-style: solid;
+    border-width: 0px 0px 50px 0px;
+    border-bottom-color: azure;
+}
+.mynavbar {
+    list-style: none;
+    height: 40px;
+    }
+.mycolumn1 {
+    background-color: cornsilk;
+    height: 100%;
+    text-align: left;
+    padding: 10px;
+    border: 3px solid azure;
+    border-radius: 5px 10px;
+}
+.mycolumn2 {
+    background-color: cornsilk;
+    height: 100%;
+    text-align: left;
+    padding: 10px;
+    border: 3px solid azure;
+    border-radius: 5px 10px;
+}
+.mycolumn3 {
+    background-color: cornsilk;
+    height: 100%;
+    text-align: left;
+    padding: 10px;
+    border: 3px solid azure;
+    border-radius: 5px 10px;
+}
+#familypic {
+    position: absolute;
+    width: 15%;
+    top: +15%;
+    left: 17%;
+    height: auto;
+    z-index: 10;
+}
+/*
+#familypic {
+    float: left;
+    position: absolute;
+    top: 50px;
+    left: 220px;
+    z-index: 10;
+}
+*/
+
+#trees {
+    opacity: 0.4;
+    position: absolute;
+    width: 98%;
+    top: 26%;
+}
+#daisygif {
+    }
+#background {
+}
+
+
+
+
